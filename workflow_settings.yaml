@@ -1,0 +1,5 @@
+defaultProject: ninth-wares-426614-k7
+defaultLocation: US
+defaultDataset: dataform
+defaultAssertionDataset: dataform_assertions
+dataformCoreVersion: 3.0.0
